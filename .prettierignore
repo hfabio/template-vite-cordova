@@ -1,0 +1,13 @@
+**/www
+**/.jest
+**/.vscode
+**/coverage
+**/platforms
+**/plugins
+**/dist
+**/.git
+**/.svn
+**/.hg
+**/node_modules
+**/public
+**/*.html
